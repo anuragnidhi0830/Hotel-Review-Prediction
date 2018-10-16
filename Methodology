@@ -1,0 +1,3 @@
+Applied two different ensembling algorithm and found out the best features for the same
+Applied Recursive Feature Elimination to find out the most important features
+Applied the same algorithm by only using these features and then compared the accuracies for them.
